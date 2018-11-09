@@ -1,0 +1,218 @@
+body{
+    font-family: Lato, Arial sans-serif;
+}
+
+.block_cookies{
+    width: 100%;
+    height: 57px;
+    background-color: #194277;
+    padding: 10px;
+}
+
+form{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.text_cookies{
+    color: #ffffff;
+    font-size: 14px;
+    display: inline;
+}
+
+.button_cookies{
+    margin-left: 10px;
+    width: 112px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #fff;
+    color: #194277;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16.36px;
+    letter-spacing: 0.55px;
+
+}
+
+header{
+    height: 800px;
+    width: 100%;
+    background-image: url("../images/background_header.jpg") ;
+    background-repeat: no-repeat;
+    background-color: #367afd;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+#button_menu{
+    float: right;
+    margin: 31px 15px;
+    display: block;
+}
+.up_header{
+    width: 360px;
+    height: 330px;
+    margin: 0 405px;
+
+}
+
+#ellipse{
+    margin: 93px 87px;
+    position: center;
+}
+
+.header_text{
+    text-align: center;
+    margin: 0 180px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.headline{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.header_text_down{
+    margin: 20px;
+    line-height: 35px;
+}
+
+
+.button_hire_me{
+    margin-top: 75px;
+    width: 204px;
+    height: 55px;
+    border-radius: 28px;
+    background-color: #ffffff;
+    color: #3695ff;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+}
+
+#button_arrow_to_down{
+    text-align: center;
+    margin: 70px 180px;
+}
+
+h2{
+    margin: 0 auto;
+    padding: 98px 0;
+    height: 38px;
+    color: #3677fd;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 35px;
+}
+
+.style_text_p{
+    margin: 0 auto 117px;
+    width: 1030px;
+    height: 85px;
+    color: #5a5a5a;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.about_me{
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.expert_in{
+    width: 100%;
+    text-align: center;
+    background-color: #f1f8ff;
+    display: inline-block;
+}
+
+.expert_block{
+    float: left;
+    width: 360px;
+    height: 340px;
+    margin: 0 10px 10px 10px;
+    display: block;
+}
+
+h3{
+    color: #3677fd;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.style_text_p_2{
+    color: #5a5a5a;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.latest_work{
+    width: 100%;
+    text-align: center;
+    background-color: #f1f8ff;
+    display: inline-block;
+}
+
+.block_img{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 54px;
+    width: 359px;
+    height: 269px;
+    border-radius: 10px;
+    border: 1px solid #f4f4f4;
+    background-color: #f4f4f4;
+}
+
+.clients{
+    text-align: center;
+    background-color: #f1f8ff;
+    /* Пропал цвет фона :( */
+}
+
+.space_block{
+    width: 1170px;
+    height: 150px;
+    padding: 10px;
+
+
+}
+
+.block_logo{
+    float: left;
+    margin-left: 80px;
+}
+
+#samsung{
+    margin-top: 10px;
+}
+
+footer{
+    width: 100%;
+    height: 247px;
+    margin: auto;
+    background-image: url("../images/background_footer.jpg");
+}
+
+.footer_text{
+    color: #ffffff;
+    font-size: 50px;
+    margin: 5px 10px 0;
+    display: inline;
+}
+
+.span_text_footer_one{
+    font-weight: 100;
+}
+.span_text_footer_two{
+    font-weight: bold;
+}
